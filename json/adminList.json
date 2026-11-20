@@ -93,12 +93,6 @@
       "listTitle": "",
       "perId": "my-store"
     },
-    "Sync Log": {
-      "name": null,
-      "path": "/admin/sync-log",
-      "listTitle": "",
-      "perId": "my-store"
-    },
     "roles": [
       "partner"
     ]
@@ -359,6 +353,36 @@
       "path": "/admin/commerce/exchanges",
       "listTitle": "",
       "perId": "products-table"
+    },
+    "roles": [
+      "partner"
+    ]
+  },
+  "Logs": {
+    "perId": "logs",
+    "Imports": {
+      "name": null,
+      "path": "/admin/logs/imports",
+      "listTitle": "",
+      "perId": "logs"
+    },
+    "Import Errors": {
+      "name": null,
+      "path": "/admin/logs/import-errors",
+      "listTitle": "",
+      "perId": "logs"
+    },
+    "Changes Sent to Shopify": {
+      "name": null,
+      "path": "/admin/logs/shopify-updates",
+      "listTitle": "",
+      "perId": "logs"
+    },
+    "Shopify Notifications": {
+      "name": null,
+      "path": "/admin/logs/webhooks",
+      "listTitle": "",
+      "perId": "logs"
     },
     "roles": [
       "partner"
