@@ -97,6 +97,24 @@
       "partner"
     ]
   },
+  "Team": {
+    "perId": "team",
+    "Team Members": {
+      "name": null,
+      "path": "/admin/team/members",
+      "listTitle": "",
+      "perId": "team"
+    },
+    "Roles": {
+      "name": null,
+      "path": "/admin/team/roles",
+      "listTitle": "",
+      "perId": "team"
+    },
+    "roles": [
+      "partner"
+    ]
+  },
   "Products": {
     "perId": "products",
     "All Products": {
