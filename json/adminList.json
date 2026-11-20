@@ -93,6 +93,12 @@
       "listTitle": "",
       "perId": "my-store"
     },
+    "Sync Log": {
+      "name": null,
+      "path": "/admin/sync-log",
+      "listTitle": "",
+      "perId": "my-store"
+    },
     "roles": [
       "partner"
     ]
